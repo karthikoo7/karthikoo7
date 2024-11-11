@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @karthikoo7
-- 👀 I’m interested in learning new technologies in the Computer Science domain.
-- 🌱 I’m currently learning Full stack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, try linkedin : Karthikeyan Sharma.
+- 👋 Hi, I’m @karthikeyan
+- 👀 I’m interested in learning new technologies and making new projects
+- 🌱 I’m currently learning MERN Stack.
+- 💞️ I’m looking to collaborate on any opportunities that challenges my knowledge.
+- 📫 How to reach me, mail me: karthikeyansharma02636@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'll let you know when i know..
 
 <!---
 karthikoo7/karthikoo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
