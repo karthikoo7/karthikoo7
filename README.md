@@ -5,6 +5,9 @@
 - 📫 How to reach me, mail me: karthikeyansharma02636@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'll let you know when i know..
+- My Projects:
+- Weather React APP- https://weatherwidgetks.netlify.app/
+- Globetrotter(Airbnb Clone)- https://alpha-student.onrender.com
 
 <!---
 karthikoo7/karthikoo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
