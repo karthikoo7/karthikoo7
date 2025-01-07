@@ -8,6 +8,7 @@
 - My Projects:
 - Weather React APP- https://weatherwidgetks.netlify.app/
 - Globetrotter(Airbnb Clone)- https://alpha-student.onrender.com
+- TradeUp(Zerodha Clone)- https://trade-up-v-1.vercel.app/
 
 <!---
 karthikoo7/karthikoo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
