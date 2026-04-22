@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @karthikeyan<br>👀 I’m interested in learning new technologies and making new projects.<br>🌱 I’m currently studying Machine Learning.<br>💞️ I’m looking to collaborate on any opportunities that help my upskill.<br>📫 How to reach me, mail me: karthikeyansharma02636@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I once debugged an error just by staring at the code long enough, and then I woke up..<br>
+👋 Hi, I’m @karthikeyan<br>👀 I’m interested in learning new technologies and making new projects.<br>🌱 I’m currently learning Big Data Technologies.<br>💞️ I’m looking to collaborate on any opportunities that help my upskill.<br>📫 How to reach me, mail me: karthikeyansharma02636@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I once debugged an error just by staring at the code long enough, and then I woke up..<br>
 
 
 ## 🌐 Socials:
