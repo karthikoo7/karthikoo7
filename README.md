@@ -33,7 +33,7 @@ Here are some of the responsive web applications I built:
 
 ## 📫 Let's Connect!
 
-- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/karthikeyansharma/)
+- **LinkedIn:** https://www.linkedin.com/in/karthikeyansharma/
 - **Email:** [karthikeyasharma02636@gmail.com](mailto:karthikeyasharma02636@gmail.com)
 
 # 💻 Tech Stack:
