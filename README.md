@@ -1,141 +1,105 @@
-# 💫 About Me:
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Karthikeyan!;Welcome+To+My+Github+Profile)](https://git.io/typing-svg)  
-👀 I'm interested in learning new technologies and making new projects.  
-🌱 I'm learning Big Data Technologies.  
-💞️ I'm looking to collaborate on any opportunities that help me upskill.  
-📫 How to reach me, mail me: <karthikeyansharma02636@gmail.com>  
->>> My Portfolio Page: https://karthiksanalysis.netlify.app/                                                                
-😄 Pronouns: He/Him  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Karthikeyan!;Data+Engineer+in+the+Making.;Big+Data+%7C+Tableau+%7C+PySpark&font=Fira+Code&center=true&width=500&height=50&color=2E75B6&vCenter=true&pause=1000)](https://git.io/typing-svg)
 
+<br/>
 
-## 🚀 Featured Projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-karthiksanalysis.netlify.app-2E75B6?style=for-the-badge&logo=netlify&logoColor=white)](https://karthiksanalysis.netlify.app/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyansharma/)
+&nbsp;
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/karthikeyan.sharma)
 
-Here are some of the responsive web applications I built:
-
-| Project                                        | Key Features                                                      | Tech Stack                                        | Live Demo                                                  |
-| ---------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------- |
-| **🎓 Globetrotter - A Vacation Rental Website** | Full Stack Project Exploring Crucial Web-Dev Concepts             | HTML5, CSS, JavaScript, Node.js, Express, MongoDB | [**🔗 View Live**](https://alpha-student.onrender.com)      |
-| **☁️ Weather Widget**                          | Real-time weather dashboard with location-based data.             | ReactJs, API, CSS                                 | [**🔗 View Live**](https://weatherwidgetks.netlify.app/)    |
-| **📈 Trade Up**                                 | High-performance trading interface with clean data visualization. | ReactJs, TailwindCSS                              | [**🔗 View Live**](https://trade-up-v-1.vercel.app/)        |
-| **🌍 Climate Action**                           | Dynamic certificate generator & public pledge wall.               | React, TailwindCSS, SPA                           | [**🔗 View Live**](https://climate-action-spa.netlify.app/) |
+</div>
 
 ---
 
+### About
 
-## 🛠️ Tech Stack & Skills
+CS graduate transitioning into Data Engineering. I work across the full data stack — Hadoop, Spark, and Kafka on the engineering side; Tableau and Python on the analytics side.
 
-- **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Other:** Python, Java
+Previously built full-stack web apps with the MERN stack. Now focused on pipelines, data at scale, and turning raw data into decisions.
 
----
-
-
-## 📫 Let's Connect!
-
-- **LinkedIn:** <https://www.linkedin.com/in/karthikeyansharma/>
-- **Email:** <karthikeyasharma02636@gmail.com>
-
-
-# 💻 Tech Stack:
-
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- 🎓 Post Graduate Certificate Program in Big Data Analytics (ongoing)
+- 🌱 Currently working with PySpark Structured Streaming, Hive, and Airflow
+- 📊 Building Tableau dashboards as part of my analytics coursework
+- 📫 karthikeyansharma02636@gmail.com &nbsp;|&nbsp; He/Him
 
 ---
 
-## 🧠 Tech Proficiency
+### Tech Stack
 
-> Proficiency levels derived from hands-on projects, problem solving & coursework. Each bar represents depth of practical experience out of 10.
+**Data Engineering**
 
-### ⚡ Full-Stack & Web Development
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-| Technology | Proficiency | Level |
-|:-----------|:-----------:|:-----:|
-| **JavaScript (ES6+)** | `████████░░` 80% | ⭐ Advanced |
-| **HTML5 / CSS3** | `████████░░` 80% | ⭐ Advanced |
-| **React.js** | `███████░░░` 70% | 🔷 Intermediate |
-| **Node.js / Express.js** | `███████░░░` 70% | 🔷 Intermediate |
-| **MongoDB** | `██████░░░░` 60% | 🔷 Intermediate |
-| **REST APIs** | `███████░░░` 70% | 🔷 Intermediate |
-| **TailwindCSS** | `██████░░░░` 60% | 🔷 Intermediate |
-| **MySQL** | `█████░░░░░` 50% | 🔸 Developing |
+**Analytics & Visualization**
 
-### 🐘 Big Data & Data Engineering
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-| Technology | Proficiency | Level |
-|:-----------|:-----------:|:-----:|
-| **PySpark / Spark Core** | `██████░░░░` 60% | 🔷 Intermediate |
-| **Spark Structured Streaming** | `██████░░░░` 60% | 🔷 Intermediate |
-| **Hadoop / HDFS / YARN** | `█████░░░░░` 50% | 🔸 Developing |
-| **Apache Hive** | `████░░░░░░` 40% | 🔸 Developing |
-| **Apache Kafka** | `████░░░░░░` 40% | 🔸 Developing |
-| **Apache Airflow** | `███░░░░░░░` 30% | 🌱 Learning |
-| **HBase / Sqoop** | `███░░░░░░░` 30% | 🌱 Learning |
+**Web Development (Foundation)**
 
-### 🖥️ Programming Languages
-
-| Language | Proficiency | Level |
-|:---------|:-----------:|:-----:|
-| **JavaScript** | `████████░░` 80% | ⭐ Advanced |
-| **Python** | `██████░░░░` 60% | 🔷 Intermediate |
-| **Java** | `█████░░░░░` 50% | 🔸 Developing |
-| **R** | `████░░░░░░` 40% | 🔸 Developing |
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## 🗺️ My Tech Journey
+### Featured Dashboard
+
+<a href="https://public.tableau.com/app/profile/karthikeyan.sharma/vizzes">
+  <img src="./assets/tableau_preview.png" alt="Tableau Dashboard Preview" width="100%"/>
+</a>
+
+<div align="center">
+  <a href="https://public.tableau.com/app/profile/karthikeyan.sharma/vizzes">
+    <img src="https://img.shields.io/badge/View_All_Dashboards_→_Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+### Projects
+
+| Project | Stack | Demo |
+|---------|-------|------|
+| **🎓 GlobeTrotter** — Full-stack vacation rental app | MERN, Express, MongoDB | [Live](https://alpha-student.onrender.com) |
+| **🔥 Healthcare Streaming Pipeline** — Real-time visit data processing | PySpark, Kafka, HDFS, Parquet | [Repo](https://github.com/karthikoo7) |
+| **✈️ Flight Records ETL** — Large-scale data cleaning pipeline | PySpark, Spark Core | [Repo](https://github.com/karthikoo7) |
+| **📈 Trade Up** — Trading interface with data visualization | React, TailwindCSS | [Live](https://trade-up-v-1.vercel.app/) |
+| **☁️ Weather Widget** — Real-time location-based weather | React, REST API | [Live](https://weatherwidgetks.netlify.app/) |
+
+---
+
+### My Journey
 
 ```
-🟦 MERN Stack Era              🟧 Big Data Transition              🟩 Growing Stack
-─────────────────────────────────────────────────────────────────────────────────
-  HTML · CSS · JS     →     Python · PySpark · Spark      →    Kafka · Airflow
-  React · Node.js     →     Hadoop · HDFS · YARN          →    Delta Lake · Flink
-  Express · MongoDB   →     Hive · HBase · Sqoop          →    Cloud & MLOps
-─────────────────────────────────────────────────────────────────────────────────
+  MERN Stack          Big Data Transition          Growing
+──────────────────────────────────────────────────────────────
+  HTML · CSS · JS  →  Python · PySpark · Spark  →  Kafka
+  React · Node.js  →  Hadoop · HDFS · YARN      →  Airflow
+  Express · Mongo  →  Hive · Tableau · SQL       →  Cloud
+──────────────────────────────────────────────────────────────
 ```
 
 ---
 
-## 📊 Project Contribution Breakdown
+<div align="center">
 
-> Tech stack usage across my publicly built projects
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikoo7&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/karthikoo7)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikoo7&theme=cobalt2&hide_border=true&layout=compact)](https://github.com/karthikoo7)
 
-| Domain | Projects Built | Primary Stack |
-|:-------|:--------------:|:-------------|
-| 🌐 Full Stack Web Apps | 4 | MERN (MongoDB, Express, React, Node.js) |
-| 🎨 Frontend SPAs | 3 | React, TailwindCSS, REST API |
-| 🏗️ Static / UI Clones | 2 | HTML, CSS, Vanilla JS |
-| 🔥 Streaming Pipelines | 2 | PySpark, Kafka, HDFS, Parquet |
-| 🎮 Games / Mini Projects | 1 | HTML, CSS, JavaScript |
+[![Streak](https://nirzak-streak-stats.vercel.app/?user=karthikoo7&theme=cobalt2&hide_border=true)](https://github.com/karthikoo7)
 
----
-
-## 📈 Activity Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikoo7&theme=cobalt2" alt="Profile Details" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthikoo7&theme=cobalt2" alt="Repos Per Language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthikoo7&theme=cobalt2" alt="Most Used Language" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthikoo7&theme=cobalt2" alt="GitHub Stats" width="32%"/>
-</p>
-
----
-
-# 📊 GitHub Stats:
-
-[![](https://github-readme-stats.vercel.app/api?username=karthikoo7&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=false)](https://github-readme-stats.vercel.app/api?username=karthikoo7&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=false)  
-[![](https://nirzak-streak-stats.vercel.app/?user=karthikoo7&theme=cobalt2&hide_border=true)](https://nirzak-streak-stats.vercel.app/?user=karthikoo7&theme=cobalt2&hide_border=true)  
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikoo7&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikoo7&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-
-[![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=karthikoo7&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
